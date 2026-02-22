@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Primera línea
 =======
 Segunda línea
@@ -9,3 +10,5 @@ Segunda línea
 
 Tercera línea
 >>>>>>> RamaDos
+=======
+>>>>>>> parent of b0a300b (Rama main segundo commit)
