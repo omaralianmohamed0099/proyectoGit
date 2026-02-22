@@ -1,10 +1,14 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 7dc70f7 (mergeo2 con RamaDos)
 Primera línea
 =======
 Segunda línea
 >>>>>>> RamaDos
+<<<<<<< HEAD
 =======
 Segunda línea
 
@@ -12,3 +16,5 @@ Tercera línea
 >>>>>>> RamaDos
 =======
 >>>>>>> parent of b0a300b (Rama main segundo commit)
+=======
+>>>>>>> parent of 7dc70f7 (mergeo2 con RamaDos)
