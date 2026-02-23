@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 uno
-=======
-Dos
->>>>>>> 56e454ddf0791c855ec8f96aac7f8e8a60d718eb
